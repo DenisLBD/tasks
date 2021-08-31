@@ -1,5 +1,4 @@
 #include <iostream>
-#include <ctime>
 
 const int gMaxArraySize = 9999;
 
