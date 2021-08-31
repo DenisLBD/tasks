@@ -8,7 +8,7 @@ void quick_sort(double *array, int array_size)
         return;  // базовый случай
         
     int middle = array_size / 2; // находим середину массива
-    std::cout << middle << std::endl;
+   
     double *left = array;
     double *right = array + middle;
 
